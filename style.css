@@ -1,0 +1,31 @@
+body{
+    background: #000 !important;
+    color: azure !important;
+}
+.note,.box {
+    color: black;
+}
+.gray{
+    background-color: rgb(187, 179, 179);
+}
+.green{
+    background-color: rgb(198, 247, 125);
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.orange{
+    background-color: orange;
+}
+.violet{
+    background-color: violet;
+}
+.teal{
+    background-color: rgb(103, 243, 243);
+}
+
+.red{
+    background-color: rgb(236, 103, 70);
+}
